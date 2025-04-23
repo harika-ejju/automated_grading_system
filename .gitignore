@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+config.py  # Avoid exposing API keys in public repositories
